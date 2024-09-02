@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1032\\source\\repos\\Mybank\\Mybank\\Mybank.csproj": {}
+    "C:\\Users\\1032\\Desktop\\Mybank\\franceBank\\Mybank\\Mybank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1032\\source\\repos\\Mybank\\Mybank\\Mybank.csproj": {
+    "C:\\Users\\1032\\Desktop\\Mybank\\franceBank\\Mybank\\Mybank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1032\\source\\repos\\Mybank\\Mybank\\Mybank.csproj",
+        "projectUniqueName": "C:\\Users\\1032\\Desktop\\Mybank\\franceBank\\Mybank\\Mybank.csproj",
         "projectName": "Mybank",
-        "projectPath": "C:\\Users\\1032\\source\\repos\\Mybank\\Mybank\\Mybank.csproj",
+        "projectPath": "C:\\Users\\1032\\Desktop\\Mybank\\franceBank\\Mybank\\Mybank.csproj",
         "packagesPath": "C:\\Users\\1032\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1032\\source\\repos\\Mybank\\Mybank\\obj\\",
+        "outputPath": "C:\\Users\\1032\\Desktop\\Mybank\\franceBank\\Mybank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
